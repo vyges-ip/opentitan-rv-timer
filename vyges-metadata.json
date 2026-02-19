@@ -5,6 +5,14 @@
   "source": {
     "type": "git",
     "url": "https://github.com/lowRISC/opentitan",
-    "commit": "304378684dfcf5be73bbd14faffa71790793d8c6"
-  }
+    "commit": "304378684dfcf5be73bbd14faffa71790793d8c6",
+    "rtl_path": "rtl",
+    "rtl_files": [
+      "rtl/rv_timer.sv",
+      "rtl/rv_timer_reg_pkg.sv",
+      "rtl/rv_timer_reg_top.sv",
+      "rtl/timer_core.sv"
+    ]
+  },
+  "updated": "2026-02-19T06:03:45Z"
 }
